@@ -66,3 +66,21 @@ hotel-schedule-pipeline/
 │   └── (optional) validation / exploration notebook
 └── README.md
 
+
+
+
+## Tech Stack
+
+- **MySQL 8** – star-schema warehouse
+- **Python (pandas, mysql-connector)** – ETL from Excel/CSV → MySQL
+- **SQL** – dimensional modeling, fact table, analytical views
+- **Jupyter Notebook** – data validation / exploration
+
+## Example Analytics
+
+The warehouse supports questions like:
+
+- How many hours and how much salary per employee per month?
+- What is the monthly labour cost per hotel/job site?
+- Which schedules (e.g., Night) incur most overtime?
+- Which employees accumulate the highest OT hours across the year?
