@@ -1,0 +1,8 @@
+mysql_config = {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "password": "YOUR_PASSWORD", 
+    "database": "PoolManagement",
+    "auth_plugin": "mysql_native_password",
+}
