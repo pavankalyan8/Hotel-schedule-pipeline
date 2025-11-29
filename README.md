@@ -67,8 +67,3 @@ hotel-schedule-pipeline/
 └── README.md
 
 
-
-Load your own timesheet data into a raw_timesheets table
-(match the columns: First Name, Last Name, Employee ID, Date, Start Time,
-End Time, Unpaid Breaks, Regular, Hourly Rate, OT, Double OT, Paid Total,
-Schedule, Job Site, Position, Manager Note, Clock In Note, Clock Out Note, User ID).
