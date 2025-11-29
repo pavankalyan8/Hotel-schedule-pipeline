@@ -1,3 +1,8 @@
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
+![Python](https://img.shields.io-badge/Language-Python-yellow?logo=python)
+![ETL](https://img.shields.io/badge/Pipeline-ETL-green)
+![Model-Star Schema](https://img.shields.io/badge/Data%20Model-Star%20Schema-orange)
+
 # Pool Management Timesheet Data Warehouse
 
 ## Overview
