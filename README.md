@@ -51,6 +51,22 @@ Run scripts in order:
 03_create_fact_timesheet.sql
 04_create_views.sql
 
+## Project Structure
+
+```text
+hotel-schedule-pipeline/
+├── sql/
+│   ├── 01_create_dimensions.sql
+│   ├── 02_create_dim_date.sql
+│   ├── 03_create_fact_timesheet.sql
+│   └── 04_create_views.sql
+├── src/
+│   └── dump.py
+├── notebooks/
+│   └── (optional) validation / exploration notebook
+└── README.md
+
+
 
 Load your own timesheet data into a raw_timesheets table
 (match the columns: First Name, Last Name, Employee ID, Date, Start Time,
