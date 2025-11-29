@@ -1,0 +1,30 @@
+# OS junk
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel files (real employee data)
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# Raw data folders
+data_raw/
+data/private/
+raw_data/
+dump_data/
+
+# Sensitive CSV (real names)
+data/*.csv
+*.csv
+
+# Logs
+*.log
